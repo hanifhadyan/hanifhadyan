@@ -35,7 +35,7 @@ I'm the kind of person who **loves learning new things, adapts quickly**, and is
 ---
 
 ## 📊 GitHub Stats
-![Hanif Hadyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifhadyan&show_icons=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Hanif Hadyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifhadyan&show_icons=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifhadyan&layout=compact&bg_color=00000000)
 
